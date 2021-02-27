@@ -147,9 +147,9 @@ CREATE TABLE IF NOT EXISTS Nom_Table(
 -- Insertion des valeurs dans la table Nom_Table --
 
 INSERT INTO Nom_Table (Nom_Colonne, Nom_Colonne, Nom_Colonne, Nom_Colonne, Nom_Colonne) VALUES
-(1, 'BIRONNEAU', FALSE, 1.1, '2021-01-01'),
-(2, 'RAFFIER', TRUE, 1.2, '2021-01-02'),
-(3, 'BARON', FALSE, 1.3, '2021-01-03'),
+(1, 'DUPONT', FALSE, 1.1, '2021-01-01'),
+(2, 'FERNADEZ', TRUE, 1.2, '2021-01-02'),
+(3, 'GAUTIER', FALSE, 1.3, '2021-01-03'),
 (4, 'GOILOT', TRUE, 1.4, '2021-01-04'),
 (5, 'DESCHAMPS', TRUE, 1.5, '2021-01-05');
 
